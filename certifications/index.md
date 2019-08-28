@@ -17,6 +17,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
  Experation date: 08/06/2022
 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439" class="btn">View Certification</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
