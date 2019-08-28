@@ -14,7 +14,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
  **Revature (January 2019 - May 2019)** 
    * Full Stack Web Developer, Computer Science
  
- **Keiser University (August 2017 - October 2017)
+ **Keiser University (August 2017 - October 2017)**
    * Software Engineering
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
