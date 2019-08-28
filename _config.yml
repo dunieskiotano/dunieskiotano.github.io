@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Dunieski Otano
+# title: Dunieski Otano
 locale: en_US
-description: Code is a Science, It's Simply an Art
+# description: Code is a Science, It's Simply an Art
 logo: site-logo.png
 url: https://dunieskiotano.github.io
 
