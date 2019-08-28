@@ -2,7 +2,7 @@
 
 title: Dunieski Otano
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Code is a Science, It's Simply an Art
 logo: site-logo.png
 url: https://dunieskiotano.github.io
 
@@ -40,20 +40,5 @@ owner:
   avatar: michael-rose-photo.jpg
   email: dunieskiotano.trainer@gmail.com
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: dunieskiotano
-  stackexchange:
   linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
-  pinterest:
-  weibo:
-  google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  
