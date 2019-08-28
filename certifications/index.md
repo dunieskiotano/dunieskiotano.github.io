@@ -13,8 +13,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <!-- ## So Simple Theme is all about: -->
 
-* AWS Certified Cloud Practitioner
- Experation date: 08/06/2022
+* AWS Certified Cloud Practitioner (CLF)
+ ## Issuance date: 08/06/2019
+ ## Expiration date: 08/06/2022
 
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439" class="btn">View Certification</a>
