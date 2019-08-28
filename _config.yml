@@ -1,9 +1,9 @@
 # Site wide configuration
 
-# title: Dunieski Otano
+title: Dunieski Otano
 locale: en_US
-# description: Code is a Science, It's Simply an Art
-logo: site-logo.png
+description: A personal site and blog
+logo: dunieski-otano.png
 url: https://dunieskiotano.github.io
 
 # Jekyll configuration
