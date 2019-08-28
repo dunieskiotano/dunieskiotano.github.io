@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   <!--creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
   creditlink: https://we.graphics/item/color-infrared-photoshop-action/
 ---
-https://we.graphics/item/color-infrared-photoshop-action/
+
 
 
 <!-- ## So Simple Theme is all about: -->
