@@ -68,6 +68,24 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 **OTHER PROJECTS:**
 
+   * An Online Store experience using C# and SQL Server.
+   * Another Online Store with a different concept using Html, CSS, JavaScript, PHP, and MySQL.
+   * ATM/Banking project using C++.
+   * Multi-Service Project using C++.
+   * Triangle Calculations upon request by the user using C++.
+   * Vacation Rental Project using Java and JFrame graphics.
+   * Tenant Inventory using Java.
+   * Registration Form, Registration Form Summary using Java, JFrame, and JPanel.
+   * Christmas tree with only JFrame in Java.
+   * Car Inventory using Java.
+   * Mathematical Operations project using Html, CSS, and JavaScript.
+   * Pizza Place in-class project using C#.
+   * Hotel Reservation project using C# Windows Forms.
+   * Another Online Store using another different concept with ASP.net with C#, bootstrap, CSS, Html, JavaScript, SQL Server, and JQuery – work in progress)
+* **Technologies Used:** 
+   * Visual Studio 2017, NetBeans, Note++, MySQL Server, Microsoft SQL Server 2016, Windows Forms, Eclipse
+
+
 
 [^1]: Example: *domain.com/category-name/post-title*
 
