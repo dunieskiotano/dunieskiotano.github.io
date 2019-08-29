@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-<h/>
+<hr/>
 
 ## **SMS - Staging Management System**
 
