@@ -28,7 +28,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   [**Concordia University-Portland, OR (2010 - 2011)**](https://www.cu-portland.edu)
    * Master's Degree in Curriculum & Instruction with minor in ESOL
   
-  [**University of Havana, Cuba (1997 - 2002)**]
+  **University of Havana, Cuba (1997 - 2002)**
    * Bachelor's Degree in English Language and Literature with concentration in Translation/Interpretation
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
