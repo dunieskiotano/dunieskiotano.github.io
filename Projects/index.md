@@ -15,4 +15,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
 
+**SMS -Staging Management System**
+  * **Technologies used**:
+    * React, Redux, Axios, Node.js, Java, JDBC, Spring Data, Spring MVC, Spring Boot, Hibernate, AWS Cognito, AWS RDS, AWS S3, AWS EC2, REST API, PostgreSQL, JavaScript, Microservices, Zuul, Eureka, TypeScript, HTML, CSS, Bootstrap, jQuery, Ajax
+
+<a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
+
 [^1]: Example: *domain.com/category-name/post-title*
