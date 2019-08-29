@@ -29,6 +29,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 
-<a markdown="0" href="https://usa.generation.org/" class="btn">More on Generatio</a>
+<a markdown="0" href="https://usa.generation.org/" class="btn"><strong>More on Generation</strong></a>
 
 [^1]: Example: *domain.com/category-name/post-title*
