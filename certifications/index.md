@@ -12,7 +12,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <hr/>
 
-##**AWS Certified Cloud Practitioner (CLF)**
+## **AWS Certified Cloud Practitioner (CLF)**
       * Issuance date: 08/06/2019
       * Expiration date: 08/06/2022
       * Credential ID: MFY6XXE131EQQBSJ
