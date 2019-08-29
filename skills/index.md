@@ -10,5 +10,21 @@ modified: 2014-08-08T19:44:38.564948-04:00
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
+**TECHNICAL SKILLS:**
+
+  * Experience with full stack technologies such as HTML, CSS, JavaScript, TypeScript, React, jQuery, Express, PostgreSQL, andNode.js.
+  * Implemented HTML to structure markup pages  and CSS for styling design.
+  * Implemented Java, Spring Data, Spring MVC, and Hibernate to create APIs.
+  * Leveraged Bootstrap framework and grid system to build responsive websites.
+  * Incorporated JavaScript to enhance web application functionality.
+  * Coded some custom jQuery functions to enhance website dynamic functionality.
+  * Employed Redux routing services to switch views within an application.
+  * Utilized JUnit and Jest to test project functionalities.
+  * Developed and exposed REST services built with Express hosted on server-side Node.js environment.
+  * Designed data layer code to do CRUD operations for PostgreSQL databases.
+  * Set up PostgreSQL and databases to manipulate and store data.
+  * Knowledgeable of DevOps pipelines using Jenkins, Git, and AWS EC2.
+  * Collaborated in team environment following Agile practices.
+
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
