@@ -47,5 +47,24 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * JSON
   * YML
 
+**DATABASES MANAGEMENT SYSTEMS:**
+  * SQL Server 2008 – 2016
+  * MySQL Server
+  * MS Access
+  * PostgreSQL
+  * AWS DynamoDB
+  
+**AWS SERVICES:**
+  * AWS S3
+  * AWS RDS
+  * AWS EC2
+  * Route 53
+  * Athena
+  * CloudFront
+  * CloudFormation
+  * Elastic Beanstalk
+  * Redshift
+  * Lambda
+
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
