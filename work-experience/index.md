@@ -29,6 +29,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<a markdown="0" href="https://usa.generation.org/" class="btn">More on Generation Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
