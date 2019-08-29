@@ -13,11 +13,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <hr/>
 
-<div style="color: blue">
+
   
 **Nova Southeastern University (2020 - )**
-
-</div>
    
    * Master's Degree in Computer Science
  
