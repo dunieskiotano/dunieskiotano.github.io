@@ -11,6 +11,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <!--Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).-->
 
+
+ **Nova Southeastern University (2020 - )** 
+   * Master's Degree in Computer Science
+   
  **Revature (January 2019 - May 2019)** 
    * Full Stack Web Developer, Computer Science
  
