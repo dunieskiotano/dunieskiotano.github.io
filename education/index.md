@@ -20,6 +20,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
  
  **Keiser University (August 2017 - October 2017)**
    * Software Engineering
+ 
  **Miami Dade College (2013)**
    * Algebra, A | Mathematical Statistics & Probabilities
 
