@@ -24,7 +24,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Python 
   * Databases
   * AWS Foundational & SysOps
-                   
+ 
+ <hr/>
+ 
 # **Miami Dade College (January 2009 - December 2017)**
 
 *ESOL Instructor*
