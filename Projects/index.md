@@ -49,6 +49,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   
 
 **SplitSmart**
+
 *Split$mart is a web app based on facilitating simple billsplitting. Users are able to create and join groups with other users. In groups, users can add receipts from group purchases, and specify who purchased each item. Split$mart will calculate each users financial responsibility after the fact; thereby, leaving users able to enjoy their time without worrying about who owes money to whom.*
   * **Responsibilities:**
     * Created initial database schema including tables, data, constraints, and scripts using PostgreSQL and DBeaver. 
