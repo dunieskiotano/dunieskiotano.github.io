@@ -33,6 +33,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Train students on Agile methodology with continuous feedback
   * Assist students in creating their own resumes, cover letters, and LinkedIn profile.
   
+ <a markdown="0" href="https://usa.generation.org/" class="btn"><strong>More on Generation</strong></a>
+ 
  <hr/>
  
 # **Miami Dade College (January 2009 - December 2017)**
@@ -41,6 +43,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 
-<a markdown="0" href="https://usa.generation.org/" class="btn"><strong>More on Generation</strong></a>
+
 
 [^1]: Example: *domain.com/category-name/post-title*
