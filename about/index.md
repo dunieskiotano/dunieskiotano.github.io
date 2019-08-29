@@ -13,7 +13,7 @@ Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **
 
 In 2011 I finished my **Master's Degree in Curriculum & Instruction with concentration in ESOL** in Concordia University- Portland, OR. A few years later, I decided to change my career path and went for a **Bachelor's Degree in Software Engineering** from Keiser University and graduated in 2017. 
 
-Since my graduation as a software engineer, I have been developing software, creating websites, full stack applications, and gettting expertise in AWS services. I recently got [**AWS certified as a cloud practitioner**](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439).
+Since my graduation as a software engineer, I have been developing software, creating websites, full stack applications, and gettting expertise in AWS services. I recently got [**AWS-certified as a cloud practitioner**](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439).
 
 Soon I will be getting other AWS certifications and in 2020 I am planning to start my **Master's Degree in Computer Science**. 
 
