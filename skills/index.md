@@ -46,6 +46,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Python
   * JSON
   * YML
+<hr/>
 
 **DATABASES MANAGEMENT SYSTEMS:**
   * SQL Server 2008 – 2016
@@ -53,7 +54,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * MS Access
   * PostgreSQL
   * AWS DynamoDB
-  
+ <hr/>
+ 
 **AWS SERVICES:**
   * AWS S3
   * AWS RDS
