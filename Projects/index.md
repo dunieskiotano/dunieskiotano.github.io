@@ -29,7 +29,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
     
 
 <a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
-
+<hr/>
 **Expense Reimbursement System**
 
 *The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.*
@@ -46,7 +46,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
     * Used Postman to test authentication and endpoints. 
   * **Technologies used:**
     * CSS, HTML, JavaScript, Typescript, Node.js, Express.js, PostgreSQL, VS Code, Postman
-  
+  <hr/>
 
 **SplitSmart**
 
@@ -64,9 +64,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
     * React, Redux, Axios, Node.js, Java, JDBC, Spring Data, Spring MVC, Spring Boot, Hibernate, AWS RDS, AWS S3, AWS EC2, PostgreSQL, JavaScript, TypeScript, HTML, CSS, Bootstrap, jQuery, Ajax
 
 <a markdown="0" href="https://github.com/dunieskiotano/SplitSmart" class="btn">See on Github</a>
-
-**OTHER PROJECTS:**
 <hr/>
+**OTHER PROJECTS:**
+
 
 [^1]: Example: *domain.com/category-name/post-title*
 
