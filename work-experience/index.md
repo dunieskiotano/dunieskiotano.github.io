@@ -20,7 +20,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Linux
   * Introduction to IT
   * Network Fundamentals
-	* Security Fundamentals
+  * Security Fundamentals
   * Python 
   * Databases
   * AWS Foundational & SysOps
