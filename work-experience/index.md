@@ -24,7 +24,13 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Python 
   * Databases
   * AWS Foundational & SysOps
- 
+**Responsibilities:**
+  * Train students both professionally and technically
+  * Prepare students for employment interviews
+  * Educate students on behavioral skills and mindsets that are essential for employment
+  * Assign students projects simulating a workplace environment
+  * Train students on Agile methodology with continuous feedback
+  
  <hr/>
  
 # **Miami Dade College (January 2009 - December 2017)**
