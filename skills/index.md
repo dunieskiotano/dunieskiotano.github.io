@@ -26,7 +26,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Collaborated in team environment following Agile practices.
 <hr/>
 
-**PROGRAMMING/SCRIPTING/MODELING LANGUAGES/FRAMEWORKS
+**PROGRAMMING/SCRIPTING/MODELING LANGUAGES/FRAMEWORKS:**
 
   * VB.Net, C#.Net, (2015-present)	
   * Visual Basic 
