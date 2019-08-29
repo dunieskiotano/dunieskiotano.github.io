@@ -16,10 +16,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
    * Master's Degree in Computer Science
    
  [**Revature (January 2019 - May 2019)**](https://revature.com)
-   * Full Stack Web Developer, Computer Science
+   * Full Stack Web Developer, Computer Science [Boot Camp]
  
  [**Keiser University (August 2017 - October 2017)**](https://www.keiseruniversity.edu)
-   * Software Engineering
+   * Bachelo's Degree in Software Engineering
  
  [**Miami Dade College (2013)**](https://www.mdc.edu)
    * Algebra
