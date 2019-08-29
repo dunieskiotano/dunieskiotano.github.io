@@ -24,6 +24,28 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Set up PostgreSQL and databases to manipulate and store data.
   * Knowledgeable of DevOps pipelines using Jenkins, Git, and AWS EC2.
   * Collaborated in team environment following Agile practices.
+<hr/>
+
+**PROGRAMMING/SCRIPTING/MODELING LANGUAGES/FRAMEWORKS
+
+  * VB.Net, C#.Net, (2015-present)	
+  * Visual Basic 
+  * ASP (Visual Studio 6)	
+  * Java (Eclipse)
+  * JavaScript (Note++, Visual Studio, Eclipse)	
+  * HTML (Visual Studio, NetBeans)
+  * XML (Visual Studio)	
+  * Unified Modeling Language (Violet)
+  * Structured Query Language (SQL)
+  * C++ (Visual Studio 6)	
+  * JQuery
+  * AJAX (Visual Studio)
+  * Bootstrap (Visual Studio)	
+  * Android Studio
+  * CSS (Note ++, Visual Studio)
+  * Python
+  * JSON
+  * YML
 
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
