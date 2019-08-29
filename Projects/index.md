@@ -11,7 +11,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 **SMS - Staging Management System**
 
-**The Staging Management System allows managers to keep track of Revature associates who have completed training and are awaiting a job assignment. The application assists Staging Managers in areas such as tracking interviews and sending out surveys for status updates.*
+*The Staging Management System allows managers to keep track of Revature associates who have completed training and are awaiting a job assignment. The application assists Staging Managers in areas such as tracking interviews and sending out surveys for status updates.*
   * **Responsibilities:** 
     * Collaborated with the project team following Agile methodology.
     * Consumed several survey API endpoints using Java, Spring MVC, Spring Data, and Hibernate.
