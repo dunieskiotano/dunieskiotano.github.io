@@ -11,7 +11,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <hr/>
 
-**TECHNICAL SKILLS:**
+## **TECHNICAL SKILLS:**
 
   * Experience with full stack technologies such as HTML, CSS, JavaScript, TypeScript, React, jQuery, Express, PostgreSQL, andNode.js.
   * Implemented HTML to structure markup pages  and CSS for styling design.
@@ -28,7 +28,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Collaborated in team environment following Agile practices.
 <hr/>
 
-**PROGRAMMING/SCRIPTING/MODELING LANGUAGES/FRAMEWORKS/NETWORKING:**
+## **PROGRAMMING/SCRIPTING/MODELING LANGUAGES/FRAMEWORKS/NETWORKING:**
 
   * VB.Net, C#.Net, (2015-present)	
   * Visual Basic 
@@ -53,7 +53,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * YML
 <hr/>
 
-**DATABASES MANAGEMENT SYSTEMS:**
+## **DATABASES MANAGEMENT SYSTEMS:**
   * SQL Server 2008 – 2016
   * MySQL Server
   * MS Access
@@ -61,7 +61,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * AWS DynamoDB
  <hr/>
  
-**AWS SERVICES:**
+## **AWS SERVICES:**
   * AWS S3
   * AWS RDS
   * AWS EC2
