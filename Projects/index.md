@@ -30,7 +30,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
 <hr/>
-**Expense Reimbursement System**
+## **Expense Reimbursement System**
 
 *The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.*
   * **Responsibilities:** 
@@ -48,7 +48,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
     * CSS, HTML, JavaScript, Typescript, Node.js, Express.js, PostgreSQL, VS Code, Postman
   <hr/>
 
-**SplitSmart**
+## **SplitSmart**
 
 *Split$mart is a web app based on facilitating simple billsplitting. Users are able to create and join groups with other users. In groups, users can add receipts from group purchases, and specify who purchased each item. Split$mart will calculate each users financial responsibility after the fact; thereby, leaving users able to enjoy their time without worrying about who owes money to whom.*
   * **Responsibilities:**
@@ -66,7 +66,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 <a markdown="0" href="https://github.com/dunieskiotano/SplitSmart" class="btn">See on Github</a>
 <hr/>
 
-**OTHER PROJECTS:**
+## **OTHER PROJECTS:**
 
    * An Online Store experience using C# and SQL Server.
    * Another Online Store with a different concept using Html, CSS, JavaScript, PHP, and MySQL.
