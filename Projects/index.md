@@ -31,6 +31,19 @@ modified: 2014-08-08T19:44:38.564948-04:00
 <a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
 
 **Expense Reimbursement System**
+
+*The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.*
+  * **Responsibilities:** 
+    * Set up the entire environment by installing all required dependencies using npm. 
+    * Used Express as framework to handle http requests. 
+    * Created the database schema including all tables and constraints using PostgreSQL and DBeaver. 
+    * Used BodyParser to convert JSON to JavaScript. 
+    * Made sure referential integrity was kept across the database. 
+    * Used both LocalStorage and SessionStorage to store and utilize important data. 
+    * Connected API to PostgreSQL using node-postgres. 
+    * Created User's Interface using JavaScript, HTML, CSS, Bootstrap, and jQuery. 
+    * Used the DOM (Document Object Model) to manipulate information. 
+    * Used Postman to test authentication and endpoints. 
   * **Technologies used:**
     * CSS, HTML, JavaScript, Typescript, Node.js, Express.js, PostgreSQL, VS Code, Postman
   
