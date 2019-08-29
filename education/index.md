@@ -13,30 +13,40 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <hr/>
 
- [**Nova Southeastern University (2020 - )**](https://www.nova.edu)
+ **Nova Southeastern University (2020 - )**
    * Master's Degree in Computer Science
+ 
+ <a markdown="0" href="https://www.nova.edu" class="btn">More on Nova</a>
  <hr/>
    
- [**Revature (January 2019 - May 2019)**](https://revature.com)
+ **Revature (January 2019 - May 2019)**
    * Full Stack Web Developer, Computer Science [Boot Camp]
+  
+ <a markdown="0" href="https://revature.com" class="btn">More on Revature</a>
  <hr/>
  
- [**Keiser University (August 2017 - October 2017)**](https://www.keiseruniversity.edu)
+ **Keiser University (August 2017 - October 2017)**
    * Bachelor's Degree in Software Engineering
+ 
+ <a markdown="0" href="https://www.keiseruniversity.edu" class="btn">More on Keiser</a>
  <hr/>
  
- [**Miami Dade College (2013)**](https://www.mdc.edu)
+ **Miami Dade College (2013)**
    * Algebra
    * Mathematical Statistics & Probabilities
+ 
+ <a markdown="0" href="https://www.mdc.edu" class="btn">More on MDC</a>
  <hr/>
   
-  [**Concordia University-Portland, OR (2010 - 2011)**](https://www.cu-portland.edu)
+  **Concordia University-Portland, OR (2010 - 2011)**
    * Master's Degree in Curriculum & Instruction with minor in ESOL
+  
+  <a markdown="0" href="https://www.cu-portland.edu" class="btn">More on Concordia</a>
   <hr/>
   
   **University of Havana, Cuba (1997 - 2002)**
    * Bachelor's Degree in English Language and Literature with concentration in Translation & Interpretation
 
-<a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
+
 
 [^1]: Example: *domain.com/category-name/post-title*
