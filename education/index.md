@@ -25,8 +25,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
    * Algebra
    * Mathematical Statistics & Probabilities
 
-
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
