@@ -10,9 +10,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   creditlink: https://we.graphics/item/color-infrared-photoshop-action/
 ---
 
-
-
-<!-- ## So Simple Theme is all about: -->
+<hr/>
 
 ## **AWS Certified Cloud Practitioner (CLF)**
      * Issuance date: 08/06/2019
