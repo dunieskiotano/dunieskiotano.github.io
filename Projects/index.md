@@ -10,16 +10,29 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 **SMS - Staging Management System**
+**The Staging Management System allows managers to keep track of Revature associates who have completed training and are awaiting a job assignment. The application assists Staging Managers in areas such as tracking interviews and sending out surveys for status updates.*
+  * **Responsibilities:** 
+    * Collaborated with the project team following Agile methodology.
+    * Consumed several survey API endpoints using Java, Spring MVC, Spring Data, and Hibernate.
+    * Collaborated in the setup of the entire environment by installing all required dependencies using npm.
+    * Collaborated in the creation of the survey User's Interface using JavaScript, HTML, CSS, and Bootstrap.
+    * Consumed endpoints in the UI using TypeScript, JavaScript, React, and Redux.
+    * Collaborated in the initial database schema including tables, data, constraints, and scripts using PostgreSQL and DBeaver.
+    * Utilized Amazon Web Services technologies such as AWS Cognito, EC2, and S3.Utilized Zuul as gateway in our project. 
+    * Employed Spring Cloud web services such as Feign Client to achieve communication between services. 
+    * Deployed our survey API using AWS EC2. 
+    * Built survey API using a Jenkins pipeline. 
+    * Leveraged Charts.js to display data collected from the surveys 
   * **Technologies used**:
     * React, Redux, Axios, Node.js, Java, JDBC, Spring Data, Spring MVC, Spring Boot, Hibernate, AWS Cognito, AWS RDS, AWS S3, AWS EC2, REST API, PostgreSQL, JavaScript, Microservices, Zuul, Eureka, TypeScript, HTML, CSS, Bootstrap, jQuery, Ajax
+    
 
 <a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
 
 **Expense Reimbursement System**
-  * **Technologies used**:
+  * **Technologies used:**
     * CSS, HTML, JavaScript, Typescript, Node.js, Express.js, PostgreSQL, VS Code, Postman
-
-<a markdown="0" href="https://github.com/1901-blake/project0-ers-api-dunieskiotano" class="btn">See on Github</a>
+  
 
 **SplitSmart**
   * **Technologies used**:
