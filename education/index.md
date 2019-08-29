@@ -19,11 +19,17 @@ modified: 2014-08-08T19:44:38.564948-04:00
    * Full Stack Web Developer, Computer Science [Boot Camp]
  
  [**Keiser University (August 2017 - October 2017)**](https://www.keiseruniversity.edu)
-   * Bachelo's Degree in Software Engineering
+   * Bachelor's Degree in Software Engineering
  
  [**Miami Dade College (2013)**](https://www.mdc.edu)
    * Algebra
    * Mathematical Statistics & Probabilities
+  
+  [**Concordia University-Portland, OR (2010 - 2011)**](https://www.cu-portland.edu)
+   * Master's Degree in Curriculum & Instruction with minor in ESOL
+  
+  [**University of Havana, Cuba (1997 - 2002)**]
+   * Bachelor's Degree in English Language and Literature with concentration in Translation/Interpretation
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
 
