@@ -65,6 +65,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <a markdown="0" href="https://github.com/dunieskiotano/SplitSmart" class="btn">See on Github</a>
 <hr/>
+
 **OTHER PROJECTS:**
 
 
