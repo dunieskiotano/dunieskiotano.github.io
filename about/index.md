@@ -9,6 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
+*Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **English Language and Literature** in the University of Havana, Cuba and graduated in 2002. Then in 2011 I finished my **Master's Degree in Curriculum & Instruction with concentration in ESOL** in Concordia University- Portland, OR. A few years later, I decided to change my career path and went for a **Bachelor's Degree in Software Engineering** from Keiser University and graduated in 2017. Since then I have been developing software, creating websites, full stack applications, and gettting expertise in AWS services. I recently got AWS certified as a cloud practitioner.*
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
