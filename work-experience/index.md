@@ -31,7 +31,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   * Educate students on behavioral skills and mindsets that are essential for employment such as teamwork, personal responsibility, time management, growth mindset, future orientation, persistence, communication, and proactiveness
   * Assign students projects simulating a workplace environment
   * Train students on Agile methodology with continuous feedback
-  * Assist students in creating their own resumes, and cover letters, LinkedIn profile.
+  * Assist students in creating their own resumes, cover letters, and LinkedIn profile.
   
  <hr/>
  
