@@ -12,9 +12,14 @@ image:
 
 <hr/>
 
-## **AWS Certified Cloud Practitioner (CLF)**
+## ** AWS Certified Cloud Practitioner (CLF) **
    * Issuance date: 08/06/2019
    * Expiration date: 08/06/2022
+   * Credential ID: MFY6XXE131EQQBSJ
+
+## ** AWS Certified SysOps Administrator Associate (SOA)**
+   * Issuance date: 09/10/2019
+   * Expiration date: 09/10/2022
    * Credential ID: MFY6XXE131EQQBSJ
 
 
