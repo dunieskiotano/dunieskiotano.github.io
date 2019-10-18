@@ -26,5 +26,12 @@ image:
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
 
+## ** AWS Certified Solutions Architect Associate (SAA)**
+   * Issuance date: 10/17/2019
+   * Expiration date: 10/17/2022
+   * Credential ID: MXGHL2C23ERQQDWZ
+
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+
 
 [^1]: Example: *domain.com/category-name/post-title*
