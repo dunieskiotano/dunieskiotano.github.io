@@ -11,6 +11,7 @@ image:
 ---
 
 <hr/>
+
 ## -- AWS Certified Solutions Architect Associate (SAA) 
    * Issuance date: 10/17/2019
    * Expiration date: 10/17/2022
