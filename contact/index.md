@@ -12,7 +12,7 @@ title: Contact Me
 
 **Send me an email:** <a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com">Click here</a>
 
-**Find me on LinkedIn:** [https://www.linkedin.com/in/mr-d-80249a152/](https://www.linkedin.com/in/mr-d-80249a152/)
+**Find me on LinkedIn:** <a style="color: blue" href="https://www.linkedin.com/in/mr-d-80249a152">https://www.linkedin.com/in/mr-d-80249a152</a>
 
 
 
