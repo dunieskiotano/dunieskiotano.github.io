@@ -8,7 +8,7 @@ title: Contact Me
 ---
 
 
-**Call me at Phone:** (786) 322-6884
+**Call me at:** (786) 322-6884
 
 **Send me an email:** <a href="mailto:dunieskiotano.trainer@gmail.com">Click here</a> 
 
