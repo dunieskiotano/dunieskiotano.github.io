@@ -10,7 +10,7 @@ title: Contact Me
 
 **Phone:** (786) 322-6884
 
-**Send me an email:** <a href="mailto:dunieskiotano.trainer@gmaiol.com">Click here</a> 
+**Send me an email:** <a href="mailto:dunieskiotano.trainer@gmail.com">Click here</a> 
 
 **LinkedIn:** [https://www.linkedin.com/in/mr-d-80249a152/](https://www.linkedin.com/in/mr-d-80249a152/)
 
