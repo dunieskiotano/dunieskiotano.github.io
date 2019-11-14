@@ -7,11 +7,11 @@ title: Contact Me
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-
+<hr/>
 **Call me at:** <span style="color: blue">(786) 322-6884</span></br>
-**Send me an email:** <a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com">Click here</a>
-
+**Send me an email:** <a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com">Click here</a></br>
 **Find me on LinkedIn:** <a style="color: blue" href="https://www.linkedin.com/in/mr-d-80249a152">https://www.linkedin.com/in/mr-d-80249a152</a>
+<hr/>
 
 
 
