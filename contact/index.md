@@ -8,8 +8,8 @@ layout: page
 ---
 
 <hr/>
-**Call me at:** <span style="color: blue">(786) 322-6884</span></br>
-**Send me an email:** <a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com">Click here</a></br>
+**Call me at:** <span style="color: blue">(786) 322-6884</span>
+**Send me an email:** <a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com">Click here</a>
 **Find me on LinkedIn:** <a style="color: blue" href="https://www.linkedin.com/in/mr-d-80249a152">https://www.linkedin.com/in/mr-d-80249a152</a>
 <hr/>
 
