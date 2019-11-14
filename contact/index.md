@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+<!--title: Contact Me
 <!--image:
   feature: EducatingPeople-yellow.png
   credit: WeGraphics
