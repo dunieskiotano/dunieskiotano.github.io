@@ -6,7 +6,6 @@ layout: page
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
-
 <hr/>
 <span><strong>Call me at:</strong></span><span style="color: blue"> (786) 322-6884</span><br/>
 <span><strong>Send me an email:</strong></span><a style="color: blue" href="mailto:dunieskiotano.trainer@gmail.com"> Click here</a><br/>
