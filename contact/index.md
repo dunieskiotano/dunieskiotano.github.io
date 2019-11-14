@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Contact Info
+---
 
 **Phone:** (786) 322-6884
 **Email:** dunieskiotano.trainer@gmail.com
