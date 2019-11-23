@@ -19,6 +19,6 @@ Soon I will be getting my Developer AWS certifications and in 2020 I am planning
 
 <a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">More on Dunieski</a>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mr-d-80249a152"><a class="LI-simple-link" href='https://www.linkedin.com/in/mr-d-80249a152?trk=profile-badge'>Mr D.</a></div>
+
 
 [^1]: Example: *domain.com/category-name/post-title*
