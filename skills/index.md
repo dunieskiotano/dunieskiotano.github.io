@@ -75,6 +75,11 @@ image:
   * Elastic Beanstalk
   * Redshift
   * Lambda
+  * CodeDeploy, CodeCommit, CodePipeline, CodeBuild, CodeStar
+  * API Gateway
+  * X-Ray
+  * Cloud9
+  * Serverless Application Model (SAM)
 
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
