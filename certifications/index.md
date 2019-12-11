@@ -28,7 +28,7 @@ image:
 
 ## -- AWS Certified Developer (DVA-C01) 
    * Issuance date: 12/10/2019
-   * Expiration date: 12/10/2022
+   * Expiration date: 12/11/2022
    * Credential ID: L0X7CSG2HMBQQM5H
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
