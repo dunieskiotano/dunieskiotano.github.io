@@ -88,4 +88,4 @@ image:
   * Kinesis Data Stream, Kinesis Analytics, Kinesis Firehose
 
 
-<a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
+<a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
