@@ -53,9 +53,11 @@ image:
   * Security
   * JSON
   * YML
+  * AWS CLI
 <hr/>
 
 ## **DATABASE MANAGEMENT SYSTEMS:**
+  * RDS
   * SQL Server 2008 – 2016
   * MySQL Server
   * MS Access
@@ -72,6 +74,7 @@ image:
   * Athena
   * CloudFront
   * CloudFormation
+  * Serverless Application Model (SAM)
   * Elastic Beanstalk
   * Redshift
   * Lambda
@@ -79,7 +82,10 @@ image:
   * API Gateway
   * X-Ray
   * Cloud9
-  * Serverless Application Model (SAM)
+  * Redshift
+  * Amazon Polly
+  * QuickSight
+  * Kinesis Data Stream, Kinesis Analytics, Kinesis Firehose
 
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
