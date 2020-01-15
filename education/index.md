@@ -15,24 +15,24 @@ image:
 
 
   
-**Nova Southeastern University (2020 - )**
+**- Nova Southeastern University (2020 - )**
    
    * Master's Degree in Computer Science
  
-**Revature (January 2019 - May 2019)**
+**- Revature (January 2019 - May 2019)**
    * Full Stack Web Developer, Computer Science [Boot Camp]
  
-**Keiser University (August 2015 - October 2017)**
+**- Keiser University (August 2015 - October 2017)**
    * Bachelor's Degree in Software Engineering
  
-**Miami Dade College (2013)**
+**- Miami Dade College (2013)**
    * Algebra
    * Mathematical Statistics & Probabilities
    
-**Concordia University-Portland, OR (2010 - 2011)**
+**- Concordia University-Portland, OR (2010 - 2011)**
    * Master's Degree in Curriculum & Instruction with minor in ESOL
   
-**University of Havana, Cuba (1997 - 2002)**
+**- University of Havana, Cuba (1997 - 2002)**
    * Bachelor's Degree in English Language and Literature with concentration in Translation & Interpretation
 
 
