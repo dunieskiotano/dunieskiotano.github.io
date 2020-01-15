@@ -16,7 +16,6 @@ image:
 
   
 **- Nova Southeastern University (2020 - )**
-   
    * Master's Degree in Computer Science
  
 **- Revature (January 2019 - May 2019)**
