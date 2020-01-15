@@ -22,7 +22,7 @@ image:
 **Revature (January 2019 - May 2019)**
    * Full Stack Web Developer, Computer Science [Boot Camp]
  
-**Keiser University (August 2017 - October 2017)**
+**Keiser University (August 2015 - October 2017)**
    * Bachelor's Degree in Software Engineering
  
 **Miami Dade College (2013)**
