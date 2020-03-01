@@ -49,7 +49,9 @@ image:
     * Used Postman to test authentication and endpoints. 
   * **Technologies used:**
     * CSS, HTML, JavaScript, Typescript, Node.js, Express.js, PostgreSQL, VS Code, Postman
-  <hr/>
+    
+<a markdown="0" href="https://github.com/dunieskiotano/expensereimbursementsystem" class="btn">See on Github</a>
+<hr/>
 
 ## **SplitSmart**
 
