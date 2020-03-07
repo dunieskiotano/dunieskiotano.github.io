@@ -17,6 +17,8 @@ Since my graduation as a software engineer, I have been developing software, cre
 
 I am currently doing my **Master's Degree in Computer Science**. 
 
+I am an AWS, CompTia A+, Microsoft Azure Fundamentals, and Programming Instructor. I also help run AWS Immersion Days with [**Belle Fleur Technologies**](https://www.bellefleurtech.com/), for which I am an APN partner. 
+
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano/" class="btn">More on Dunieski</a>
 
 
