@@ -12,8 +12,8 @@ image:
 
 <hr/>
 
-<img src="AWS_DevOps_Pic.png"/>
-   
+
+<img src="AWS_DevOps_Pic.png" class="align-left" alt="">  
    
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
    * Issuance date: 03/06/2020
