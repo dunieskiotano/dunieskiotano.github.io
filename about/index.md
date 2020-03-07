@@ -21,6 +21,8 @@ I am an AWS, CompTia A+, Microsoft Azure Fundamentals, and Programming Instructo
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano/" class="btn">More on Dunieski</a>
 
+<a href="https://www.linkedin.com/in/dunieski-otano/" target="_blank"><button style="border-radius: 2px">More on Dunieski</button>
+
 
 
 [^1]: Example: *domain.com/category-name/post-title*
