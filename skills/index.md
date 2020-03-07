@@ -86,6 +86,19 @@ image:
   * Amazon Polly
   * QuickSight
   * Kinesis Data Stream, Kinesis Analytics, Kinesis Firehose
+  * CloudWatch
+  * Glue
+  * Amplify
+  * OpsWorks
+  * CloudSearch
+  * ElastiSearch
+  * DynamoDB
+  * Inspector
+  * Elastic MapReduce
+  * Elastic Load Balancer
+  * AutoScaling
+ 
+ 
 
 
 <a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
