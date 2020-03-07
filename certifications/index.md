@@ -12,9 +12,6 @@ image:
 
 <hr/>
 
-
-<img src="AWS_DevOps_Pic.png" alt="">  
-   
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
    * Issuance date: 03/06/2020
    * Expiration date: 03/06/2023
@@ -43,7 +40,7 @@ image:
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
 
-
+<img src="AWS_DevOps_Pic.png" alt=""/> 
 
 
 
