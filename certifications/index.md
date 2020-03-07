@@ -47,6 +47,15 @@ image:
    * Credential ID: 5HH4WVV2MN1QQ49J
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<hr/>
+
+## -- AWS Certified Cloud Practitioner (CLF)
+[**<img src="/images/AWS_CP_Pic.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439)
+   * Issuance date: 09/10/2019
+   * Expiration date: 09/10/2022
+   * Credential ID: 5HH4WVV2MN1QQ49J
+
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 
 
 
