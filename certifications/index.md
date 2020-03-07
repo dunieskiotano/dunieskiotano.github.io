@@ -19,7 +19,7 @@ image:
    * Expiration date: 03/06/2023                       
    * Credential ID: HVQKBL913JQ413WK
 
-<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Developer - Associate (DVA-C01) 
@@ -28,7 +28,7 @@ image:
    * Expiration date: 12/11/2022
    * Credential ID: L0X7CSG2HMBQQM5H
 
-<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Solutions Architect - Associate (SAA) 
@@ -37,7 +37,7 @@ image:
    * Expiration date: 10/17/2022
    * Credential ID: MXGHL2C23ERQQDWZ
 
-<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified SysOps Administrator - Associate (SOA) 
@@ -46,7 +46,7 @@ image:
    * Expiration date: 09/10/2022
    * Credential ID: 5HH4WVV2MN1QQ49J
 
-<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Cloud Practitioner (CLF)
