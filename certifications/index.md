@@ -12,7 +12,7 @@ image:
 
 <hr/>
 
-[**<img src="/images/AWS_DevOps_Pic.png" width="83" height="78"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439)[**<img src="/images/AWS_Developer_Pic.png" width="78" height="81"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439)[**<img src="/images/AWS_SA_Pic.png" width="80" height="81"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)[**<img src="/images/AWS_SysOps_Pic.png" width="80" height="80"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)[**<img src="/images/AWS_CP_Pic.png" width="80" height="80"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439)
+[**<img src="/images/AWS_DevOps_Pic.png" width="90" height="85"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439)[**<img src="/images/AWS_Developer_Pic.png" width="85" height="88"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439)[**<img src="/images/AWS_SA_Pic.png" width="87" height="88"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)[**<img src="/images/AWS_SysOps_Pic.png" width="87" height="87"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)[**<img src="/images/AWS_CP_Pic.png" width="87" height="87"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439)
 <hr/>
 
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
