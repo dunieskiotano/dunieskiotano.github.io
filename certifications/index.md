@@ -13,11 +13,6 @@ image:
 <hr/>
 
 
-[**<img src="/images/AWS_SysOps_Pic.png" width="87" height="87"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)[**<img src="/images/AWS_CP_Pic.png" width="87" height="87"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439)
-<hr/>
-
-<hr/>
-
 ## -- AWS Certified DevOps Engineer - Professional (DOP)
 [**<img src="/images/AWS_DevOps_Pic.png" style="float:right" width="110" height="115"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439) 
    * Issuance date: 03/06/2020
@@ -34,6 +29,7 @@ image:
    * Credential ID: L0X7CSG2HMBQQM5H
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<hr/>
 
 ## -- AWS Certified Solutions Architect - Associate (SAA) 
 [**<img src="/images/AWS_SA_Pic.png" width="107" height="108"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)
@@ -42,8 +38,10 @@ image:
    * Credential ID: MXGHL2C23ERQQDWZ
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
+<hr/>
 
 ## -- AWS Certified SysOps Administrator - Associate (SOA) 
+[**<img src="/images/AWS_SysOps_Pic.png" width="107" height="107"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-17&ci=AWS00993439)
    * Issuance date: 09/10/2019
    * Expiration date: 09/10/2022
    * Credential ID: 5HH4WVV2MN1QQ49J
