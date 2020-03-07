@@ -10,6 +10,7 @@ image:
  
 ---
 
+<img src="/images/AWS_DevOps_Pic.png" width="80" height="80"/>
 <hr/>
 
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
@@ -41,7 +42,7 @@ image:
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-10&ci=AWS00993439" class="btn"><strong>View Certification</strong></a>
 
 
-<img src="/images/AWS_DevOps_Pic.png" width="100" height="100"/>
+
 
 
 
