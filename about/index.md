@@ -21,7 +21,7 @@ I am an AWS, CompTia A+, Microsoft Azure Fundamentals, and Programming Instructo
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano/" class="btn btn-primary">More on Dunieski</a>
 
-<a href="https://www.linkedin.com/in/dunieski-otano/" target="_blank"><button style="border-radius: 20px">More on Dunieski</button></a>
+<a href="https://www.linkedin.com/in/dunieski-otano/" target="_blank"><button style="border-radius: 20px; onMouseOver=black">More on Dunieski</button></a>
 
 
 
