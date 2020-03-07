@@ -23,7 +23,7 @@ image:
 <hr/>
 
 ## -- AWS Certified Developer - Associate (DVA-C01) 
-[**<img src="/images/AWS_Developer_Pic.png" style="float:right; margin-right: 100px;" width="105" height="108"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439)
+[**<img src="/images/AWS_Developer_Pic.png" style="float:right; margin-right: 100px; margin-top: 20px;" width="105" height="108"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-12-10&ci=AWS00993439)
    * Issuance date: 12/10/2019
    * Expiration date: 12/11/2022
    * Credential ID: L0X7CSG2HMBQQM5H
