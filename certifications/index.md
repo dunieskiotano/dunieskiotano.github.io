@@ -11,7 +11,8 @@ image:
 ---
 
 <hr/>
-
+image:
+  feature: AWS_DevOps_Pic.png
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
    * Issuance date: 03/06/2020
    * Expiration date: 03/06/2023
