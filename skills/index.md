@@ -101,4 +101,4 @@ image:
  
 
 
-<a markdown="0" href="https://www.linkedin.com/in/mr-d-80249a152/" class="btn">Find Dunieski on LinkedIn</a>
+<a markdown="0" href="https://www.linkedin.com/in/dunieski-otano/" class="btn">Find Dunieski on LinkedIn</a>
