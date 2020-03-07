@@ -11,6 +11,18 @@ image:
 
 <hr/>
 
+## **Mobile App**
+
+*This mobile app makes it easier for the SAT exam administrators/proctors to put in place strict login security measures. A picture of a test taker is taken and then the pictures is compared with another picture of the test taker on records. If there is a match, test taker can take the exam; otherwise no access is allowed.
+  * **Responsibilities:** 
+    * Collaborated with the project team following Agile methodology.
+    * Collaborated in the creation of user interface using React Native
+    * Employed React in the backend. 
+    * Helped create an S3 bucket and set up rekognition. 
+  * **Technologies used**:
+    * AWS Cognito, AWS Rekognition, AWS S3, React, React Native. 
+
+
 ## **SMS - Staging Management System**
 
 *The Staging Management System allows managers to keep track of Revature associates who have completed training and are awaiting a job assignment. The application assists Staging Managers in areas such as tracking interviews and sending out surveys for status updates.*
