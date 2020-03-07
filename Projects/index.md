@@ -13,7 +13,7 @@ image:
 
 ## **Mobile App**
 
-*This mobile app makes it easier for the SAT exam administrators/proctors to put in place strict login security measures. A picture of a test taker is taken and then the pictures is compared with another picture of the test taker on records. If there is a match, test taker can take the exam; otherwise no access is allowed.
+*This mobile app makes it easier for the SAT exam administrators/proctors to put in place strict login security measures. A picture of a test taker is taken and then the pictures is compared with another picture of the test taker on records. If there is a match, test taker can take the exam; otherwise no access is allowed.*
   * **Responsibilities:** 
     * Collaborated with the project team following Agile methodology.
     * Collaborated in the creation of user interface using React Native
