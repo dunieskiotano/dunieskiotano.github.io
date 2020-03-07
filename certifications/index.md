@@ -12,7 +12,7 @@ image:
 
 <hr/>
 
-<image src="AWS_DevOps_Pic.png"/>
+<img src="AWS_DevOps_Pic.png"/>
    
    
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
