@@ -10,7 +10,7 @@ image:
  
 ---
 
-<img src="/images/AWS_DevOps_Pic.png" width="83" height="78"/><img src="/images/AWS_Developer_Pic.png" width="78" height="81"/><img src="/images/AWS_SA_Pic.png" width="80" height="81"/><img src="/images/AWS_SysOps_Pic.png" width="80" height="80"/><img src="/images/AWS_CP_Pic.png" width="80" height="80"/>
+[**<img src="/images/AWS_DevOps_Pic.png" width="83" height="78"/>**]<img src="/images/AWS_Developer_Pic.png" width="78" height="81"/><img src="/images/AWS_SA_Pic.png" width="80" height="81"/><img src="/images/AWS_SysOps_Pic.png" width="80" height="80"/><img src="/images/AWS_CP_Pic.png" width="80" height="80"/>
 <hr/>
 
 ## -- AWS Certified DevOps Engineer - Professional (DOP) 
