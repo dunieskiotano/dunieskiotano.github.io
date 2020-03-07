@@ -14,7 +14,7 @@ image:
 
 
 ## -- AWS Certified DevOps Engineer - Professional (DOP)
-[**<div style="float:right; margin-right: 170px; margin-top: 0px"><img src="/images/AWS_DevOps_Pic.png" style="float:right; margin-right: 170px; margin-top: 20px;" width="180" height="115"/></div>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439) 
+[**<img src="/images/AWS_DevOps_Pic.png" style="float:right; margin-right: 100px; margin-top: 20px;" width="120" height="115"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2020-03-06&ci=AWS00993439) 
    * Issuance date: 03/06/2020
    * Expiration date: 03/06/2023                       
    * Credential ID: HVQKBL913JQ413WK
