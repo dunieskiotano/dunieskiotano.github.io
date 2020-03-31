@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
   <!-- credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
-<a href="https://github.com/dunieskiotano/"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
+
 
 Hello, my name is **Dunieski Otano** and I am originally from Cuba. I studied **English Language and Literature** in the University of Havana, Cuba and graduated in 2002. 
 
@@ -19,6 +19,8 @@ Since my graduation as a software engineer, I have been developing software, cre
 I am currently doing my **Master's Degree in Computer Science**. 
 
 I am an AWS, CompTia A+, Microsoft Azure Fundamentals, and Programming Instructor. I also help run AWS Immersion Days with [**Belle Fleur Technologies**](https://www.bellefleurtech.com/), for which I am an APN partner. 
+
+<a style="float: right;" href="https://github.com/dunieskiotano/"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
 
 <a markdown="0" href="https://www.linkedin.com/in/dunieski-otano/" class="btn btn-primary">More on Dunieski</a>
 
