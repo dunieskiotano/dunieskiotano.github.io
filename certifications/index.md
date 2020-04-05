@@ -65,7 +65,7 @@ image:
 <a markdown="0" href="https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
 
 
-Microsoft_Azure_Fundamentals
+
 
 
 
