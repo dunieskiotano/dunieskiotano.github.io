@@ -57,9 +57,15 @@ image:
 
 <a markdown="0" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439" target="_blank" class="btn"><strong>View Certification</strong></a>
 
+## -- Microsoft Certified: Azure Fundamentals
+[**<img src="/images/Microsoft_Azure_Fundamentals.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-06&ci=AWS00993439)
+   * Issuance date: 04/04/2020
+   * Credential ID:  H396-9491
+
+<a markdown="0" href="https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
 
 
-
+Microsoft_Azure_Fundamentals
 
 
 
