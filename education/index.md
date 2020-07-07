@@ -4,7 +4,7 @@ title: Education
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: EducationQuote.png 
+  <!--feature: EducationQuote.png 
   <!--credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
@@ -15,7 +15,7 @@ image:
 
 
   
-**- Nova Southeastern University (2020 - )**
+**- Nova Southeastern University (2020 - 2021)**
    * Master's Degree in Computer Science
  
 **- Revature (January 2019 - May 2019)**
