@@ -4,7 +4,7 @@ title: Certifications
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: CertificationsPicturepng.png
+  <!-- feature: CertificationsPicturepng.png
   <!-- credit: WeGraphics
   <!--creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
  
@@ -56,6 +56,15 @@ image:
    * Credential ID:  MFY6XXE131EQQBSJ
 
 <a markdown="0" href="https://www.youracclaim.com/badges/96bec432-1604-4c17-b199-4d73303e4902/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+
+## -- Microsoft Certified: Azure Administrator Associate
+[**<img src="/images/Azure Admin .png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile)
+   * Issuance date: 07/07/2020
+   * Expiration date: 07/07/2022
+   * Credential ID:  H452-5261
+
+<a markdown="0" href="https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+
 
 ## -- Microsoft Certified: Azure Fundamentals
 [**<img src="/images/Microsoft_Azure_Fundamentals.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/linked_in_profile)
