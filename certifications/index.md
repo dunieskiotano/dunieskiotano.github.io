@@ -82,9 +82,8 @@ image:
 
 ## -- IBM Cloud Computing Practitioner - Instructor
 [**<img src="/images/IBM.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile)
-   * Issuance date: 06/13/2020
-   * Credential ID:  H436-3934
-
+   * Issuance date: 07/16/2020
+   
 <a markdown="0" href="https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
 
 
