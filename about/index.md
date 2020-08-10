@@ -27,3 +27,5 @@ I am an AWS, Microsoft Azure, and Programming Instructor. I also help run AWS Im
 
 
 [^1]: Example: *domain.com/category-name/post-title*
+
+<script src="//code.tidio.co/9iu4htavzllgovnqr86rzowc79v3bfyh.js" async></script>
