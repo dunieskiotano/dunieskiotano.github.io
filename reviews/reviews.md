@@ -1,2 +1,4 @@
 
-[embedsocial_reviews id="eb7f0e9f04291721d63909cec803f0a9600848ab"]
+
+<div class="embedsocial-collect" data-ref="3fec4651b207405f7088" > </div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/cs.js?v=2.0"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsCollectScript"));</script>
+
