@@ -25,5 +25,18 @@ wpac_init.push({widget: 'Review', id: 26724});
 <!-- <a href="https://widgetpack.com" class="wpac-cr">Reviews System WIDGET PACK</a> -->
 
 
+<html>
+  <head>
+    <title>reCAPTCHA demo: Simple page</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  <body>
+    <form action="?" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Lezn70ZAAAAAFNY6yji0odrrfsSfUP5LynfiZlP"></div>
+      <br/>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
 
 <script src="//code.tidio.co/9iu4htavzllgovnqr86rzowc79v3bfyh.js" async></script>
