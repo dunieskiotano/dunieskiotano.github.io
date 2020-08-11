@@ -22,7 +22,7 @@ wpac_init.push({widget: 'Review', id: 26724});
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
 })();
 </script>
-<a href="https://widgetpack.com" class="wpac-cr">Reviews System WIDGET PACK</a>
+<!-- <a href="https://widgetpack.com" class="wpac-cr">Reviews System WIDGET PACK</a> -->
 
 
 
