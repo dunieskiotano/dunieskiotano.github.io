@@ -1,6 +1,6 @@
 ---
 
-<h1 style="text-align: center">Recent Reviews</h1>
+<h1 style="text-align: center; color: #000080">Recent Reviews</h1>
 <div id="wpac-review-recent"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
