@@ -12,7 +12,7 @@ image:
 
 <hr/>
 
-<a href="https://www.dunieskiotano.com" class="btn btn-danger">Click here</a>
+
 
 ## -- AWS Certified DevOps Engineer - Professional (DOP)
 [**<img src="/images/AWS_DevOps_Pic.png" style="float:right; margin-right: 200px; margin-top: 0px;" width="155" height="145"/>**](https://www.youracclaim.com/badges/ba1d8895-b2fc-4be2-8b70-bf2ff82d959c/linked_in_profile)
@@ -38,7 +38,7 @@ image:
    * Expiration date: 10/17/2022
    * Credential ID: MXGHL2C23ERQQDWZ
 
-<a markdown="0" href="https://www.youracclaim.com/badges/c2bc3305-0348-4e9a-9276-96d1f512b889/linked_in_profile" target="_blank" class="btn btn-primary"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/c2bc3305-0348-4e9a-9276-96d1f512b889/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified SysOps Administrator - Associate (SOA) 
