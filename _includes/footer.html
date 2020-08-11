@@ -1,69 +1,4 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1 social-links">
-        <h4>CONTACT</h4>
 
-        {% for contact in site.footer.contact %}
-
-          {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
-          <img
-            src="{{ contact_icon_path }}"
-            alt="{{ contact.name | downcase }}"
-          />
-          <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
-            {% if contact.value and contact.value != "" and contact.value != nil %}
-              {{ contact.value }}
-            {% else %}
-              {{ contact.name }}
-            {% endif %}
-          </a>
-          <br />
-
-        {% endfor %}
-      </div>
-
-      <div class="footer-col footer-col-2 social-links">
-        <h4>FOLLOW</h4>
-
-        {% for follow in site.footer.follow %}
-          <span class="wrap-link">
-
-            {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
-            <img
-              src="{{ follow_icon_path }}"
-              alt="{{ follow.name | downcase }}"
-            />
-            <a href="{{ follow.link }}">
-              {% if follow.value and follow.value != "" and follow.value != nil %}
-                {{ follow.value }}
-              {% else %}
-                {{ follow.name }}
-              {% endif %}
-            </a>
-          </span>
-
-          {% assign mod = forloop.index | modulo: 2 %} {% if mod == 0 %}
-            <br />
-          {% endif %}
-
-        {% endfor %}
-      </div>
-
-      {% if site.footer.show_powered_by == true %}
-        <div class="footer-col footer-col-3 powered-by">
-          <p>
-            powered by <a href="https://github.com/eliottvincent/bay">Bay</a> | {{ 'now' | date: "%Y" }}
-          </p>
-        </div>
-      {% endif %}
-    </div>
-  </div>
-</footer>
-
-{% include wechat-widget.html %}
-
-<!-- --------------- 
 
 
 {% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
@@ -82,5 +17,5 @@
   {% if site.owner.pinterest %}<a href="https://www.pinterest.com/{{ site.owner.pinterest }}/" title="{{ site.owner.name}} on Pinterest" target="_blank"><i class="fa fa-pinterest fa-2x"></i></a>{% endif %}
 	{% if site.owner.weibo %}<a href="https://www.weibo.com/u/{{ site.owner.weibo }}/" title="{{ site.owner.name}} on Weibo" target="_blank"><i class="fa fa-weibo fa-2x"></i></a>{% endif %}
 <!--   <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a> -->
-<!-- </div><!-- /.social-icons -->
+ </div><!-- /.social-icons -->
 
