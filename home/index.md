@@ -1,5 +1,6 @@
 ---
 
+<h1 style="text-align: center">Recent Reviews</h1>
 <div id="wpac-review-recent"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
@@ -14,4 +15,6 @@ wpac_init.push({widget: 'ReviewRecent', id: 26724});
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
 })();
 </script>
-<a href="https://widgetpack.com" class="wpac-cr">Powered by WIDGET PACK</a>
+<a href="https://dunieskiotano.com/reviews/" class="wpac-cr">Post a Review</a>
+
+<script src="//code.tidio.co/9iu4htavzllgovnqr86rzowc79v3bfyh.js" async></script>
