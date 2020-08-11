@@ -28,4 +28,21 @@ I am an AWS, Microsoft Azure, and Programming Instructor. I also help run AWS Im
 
 [^1]: Example: *domain.com/category-name/post-title*
 
+<div id="wpac-review-recent"></div>
+<script type="text/javascript">
+wpac_init = window.wpac_init || [];
+wpac_init.push({widget: 'ReviewRecent', id: 26724});
+(function() {
+    if ('WIDGETPACK_LOADED' in window) return;
+    WIDGETPACK_LOADED = true;
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = 'https://embed.widgetpack.com/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+})();
+</script>
+<a href="https://widgetpack.com" class="wpac-cr">Powered by WIDGET PACK</a>
+
+
 <script src="//code.tidio.co/9iu4htavzllgovnqr86rzowc79v3bfyh.js" async></script>
