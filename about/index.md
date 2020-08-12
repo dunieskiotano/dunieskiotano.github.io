@@ -29,6 +29,7 @@ I am an AWS, Microsoft Azure, and Programming Instructor. I also help run AWS Im
 [^1]: Example: *domain.com/category-name/post-title*
 
 <h1 style="text-align: center; color: #000080">Recent Reviews</h1>
+<hr/>
 <div id="wpac-review-recent"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
