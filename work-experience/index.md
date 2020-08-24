@@ -24,6 +24,9 @@ image:
   * Python 
   * Databases
   * AWS Foundational & SysOps
+  * AWS Solutions Architect Associate
+  * Microsoft Azure Fundamentals
+  * AWS Re/Start Program
 
 **Responsibilities:**
   * Train students both professionally and technically
