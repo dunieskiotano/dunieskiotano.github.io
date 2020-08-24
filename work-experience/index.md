@@ -11,7 +11,7 @@ image:
 
 <hr/>
 
-# **Generation USA (June 2019 - Present) | Miami, Florida**
+# **Miami Dade College & Generation USA (June 2019 - Present) | Miami, Florida**
 
 *AWS Certified IT & Programming Instructor*
 
