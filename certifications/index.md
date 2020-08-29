@@ -87,6 +87,13 @@ image:
    
 <a markdown="0" href="https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
 
+## -- Microsoft Certified Trainer 2020-2021
+[**<img src="/images/MCT.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url)
+   * Issuance date: 08/29/2020
+   * Expiration date: 08/29/2021
+   
+<a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
+
 
 
 
