@@ -65,7 +65,7 @@ image:
    * Expiration date: 07/07/2022
    * Credential ID:  H452-5261
 
-<a markdown="0" href="https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>&nbsp;<a markdown="0" href="https://dunieski-otano-ms-certificates.s3.amazonaws.com/MS_AAA.pdf" style="background-color: #0066cc; color: white;"  target="_blank" class="btn"><strong>View Certificate</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>&nbsp;<a markdown="0" href="https://dunieski-otano-ms-certificates.s3.amazonaws.com/MS_AAA.pdf" style="background-color: #004080; color: white;"  target="_blank" class="btn"><strong>View Certificate</strong></a>
 <hr/>
 
 ## -- Microsoft Certified: Azure Fundamentals
