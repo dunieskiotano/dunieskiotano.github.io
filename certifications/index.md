@@ -84,7 +84,7 @@ image:
    * Expiration date: 08/29/2021
    * Credential ID:  H502-7544
  
-<a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" target="_blank" class="btn"><strong>View Certification</strong></a> <a markdown="0" href="https://dunieski-otano-certificates.s3.eu-central-1.amazonaws.com/MCT_certificate.pdf" style="background-color: red; color: black"  target="_blank" class="btn"><strong>View Certificate</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>&nbsp;<a markdown="0" href="https://dunieski-otano-certificates.s3.eu-central-1.amazonaws.com/MCT_certificate.pdf" style="background-color: red; color: white;"  target="_blank" class="btn"><strong>View Certificate</strong></a>
 <hr/>
 
 ## -- MTA: HTML5 Application Development Fundamentals - Certified 2020
