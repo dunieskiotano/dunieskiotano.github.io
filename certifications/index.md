@@ -74,6 +74,7 @@ image:
 
 <a markdown="0" href="https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
 
+
 ## -- Microsoft Certified Trainer 2020-2021
 [**<img src="/images/MCT.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url)
    * Issuance date: 08/29/2020
@@ -81,12 +82,14 @@ image:
    
 <a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
 
+
 ## -- MTA: HTML5 Application Development Fundamentals - Certified 2020
 [**<img src="/images/html5cert.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile)
    * Issuance date: 06/13/2020
    * Credential ID:  H436-3934
 
 <a markdown="0" href="https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+
 
 ## -- IBM Cloud Computing Practitioner - Instructor
 [**<img src="/images/IBM.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile)
