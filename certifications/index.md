@@ -29,7 +29,7 @@ image:
    * Expiration date: 12/11/2022
    * Credential ID: L0X7CSG2HMBQQM5H
 
-<a markdown="0" href="https://www.youracclaim.com/badges/f81c1d53-acae-4b73-975a-c8f5ce1e27ab/linked_in_profile" target="_blank" title="View My Developer Certification" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/f81c1d53-acae-4b73-975a-c8f5ce1e27ab/linked_in_profile" style="color: yellow" target="_blank" title="View My Developer Certification" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Solutions Architect - Associate (SAA) 
@@ -38,7 +38,7 @@ image:
    * Expiration date: 10/17/2022
    * Credential ID: MXGHL2C23ERQQDWZ
 
-<a markdown="0" href="https://www.youracclaim.com/badges/c2bc3305-0348-4e9a-9276-96d1f512b889/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/c2bc3305-0348-4e9a-9276-96d1f512b889/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified SysOps Administrator - Associate (SOA) 
@@ -47,7 +47,7 @@ image:
    * Expiration date: 09/10/2022
    * Credential ID: 5HH4WVV2MN1QQ49J
 
-<a markdown="0" href="https://www.youracclaim.com/badges/b1175cd6-4d64-4196-b2d6-d7aee8bbe646/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/b1175cd6-4d64-4196-b2d6-d7aee8bbe646/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Cloud Practitioner (CLF)
@@ -56,7 +56,7 @@ image:
    * Expiration date: 08/06/2022
    * Credential ID:  MFY6XXE131EQQBSJ
 
-<a markdown="0" href="https://www.youracclaim.com/badges/96bec432-1604-4c17-b199-4d73303e4902/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/96bec432-1604-4c17-b199-4d73303e4902/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- Microsoft Certified: Azure Administrator Associate
@@ -65,7 +65,7 @@ image:
    * Expiration date: 07/07/2022
    * Credential ID:  H452-5261
 
-<a markdown="0" href="https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>&nbsp;<a markdown="0" href="https://dunieski-otano-ms-certificates.s3.amazonaws.com/MS_AAA.pdf" style="background-color: #0059b3; color: white;"  target="_blank" class="btn"><strong>View Certificate</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/bd69f088-514b-499e-a654-3e7bc1542a62/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- Microsoft Certified: Azure Fundamentals
@@ -74,7 +74,7 @@ image:
    * Expiration date: N/A
    * Credential ID:  H396-9491
 
-<a markdown="0" href="https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/ded97157-7229-4ec0-8ee0-5c8cac1a8448/public_url" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <br/>
 <hr/>
 
@@ -84,7 +84,7 @@ image:
    * Expiration date: 08/29/2021
    * Credential ID:  H502-7544
  
-<a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" target="_blank" class="btn"><strong>View Certification</strong></a>&nbsp;<a markdown="0" href="https://dunieski-otano-ms-certificates.s3.amazonaws.com/MCT_certificate.pdf" style="background-color: red; color: white;"  target="_blank" class="btn"><strong>View Certificate</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- MTA: HTML5 Application Development Fundamentals - Certified 2020
@@ -93,7 +93,7 @@ image:
    * Expiration date: N/A
    * Credential ID:  H436-3934
 
-<a markdown="0" href="https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- IBM Cloud Computing Practitioner - Instructor
@@ -102,7 +102,7 @@ image:
    * Expiration date: N/A
    * Credential ID:  N/A
    
-<a markdown="0" href="https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/a31dda6b-4f31-49c7-9971-7f5fab021e4f?source=linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 
