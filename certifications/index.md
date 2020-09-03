@@ -20,7 +20,7 @@ image:
    * Expiration date: 03/06/2023                       
    * Credential ID: HVQKBL913JQ413WK
 
-<a markdown="0" href="https://www.youracclaim.com/badges/ba1d8895-b2fc-4be2-8b70-bf2ff82d959c/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/ba1d8895-b2fc-4be2-8b70-bf2ff82d959c/linked_in_profile" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Developer - Associate (DVA-C01) 
