@@ -29,7 +29,7 @@ image:
    * Expiration date: 12/11/2022
    * Credential ID: L0X7CSG2HMBQQM5H
 
-<a markdown="0" href="https://www.youracclaim.com/badges/f81c1d53-acae-4b73-975a-c8f5ce1e27ab/linked_in_profile" target="_blank" class="btn"><strong>View Certification</strong></a>
+<a markdown="0" href="https://www.youracclaim.com/badges/f81c1d53-acae-4b73-975a-c8f5ce1e27ab/linked_in_profile" target="_blank" title="View My Developer Certification" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
 ## -- AWS Certified Solutions Architect - Associate (SAA) 
