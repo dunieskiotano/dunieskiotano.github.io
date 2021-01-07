@@ -88,7 +88,7 @@ image:
 <hr/>
 
 ## -- AWS re/Start Program Certified Instructor
-[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
+[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="137" height="137"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
  
 <a markdown="0" href="https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
