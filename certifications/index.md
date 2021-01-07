@@ -98,7 +98,7 @@ image:
 
 ## -- AWS Academy Certified Instructor
 [**<img src="/images/AWS Academy.png" style="float:right; margin-right: 200px;" width="147" height="157"/>**](https://www.youracclaim.com/earner/earned/badge/b0bd19e1-5379-4145-9e46-c5aefc2bf520)
-   * Issuance date:08/13/2019
+   * Issuance date: 08/13/2019
    * Expiration date: N/A
    * Credential ID:  N/A
    
