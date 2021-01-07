@@ -87,6 +87,18 @@ image:
 <a markdown="0" href="https://www.youracclaim.com/badges/1cd8b465-db41-4170-ba74-d9b78ff1cdf6/public_url" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
 <hr/>
 
+## -- AWS re/Start Program Certified Instructor
+[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
+ 
+<a markdown="0" href="https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
+<hr/>
+
+## -- AWS Academy Certified Instructor
+[**<img src="/images/AWS Academy.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/earner/earned/badge/b0bd19e1-5379-4145-9e46-c5aefc2bf520)
+ 
+<a markdown="0" href="https://www.youracclaim.com/earner/earned/badge/b0bd19e1-5379-4145-9e46-c5aefc2bf520" style="color: yellow" target="_blank" class="btn"><strong>View Certification</strong></a>
+<hr/>
+
 ## -- MTA: HTML5 Application Development Fundamentals - Certified 2020
 [**<img src="/images/html5cert.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile)
    * Issuance date: 06/13/2020
