@@ -88,7 +88,7 @@ image:
 <hr/>
 
 ## -- AWS re/Start Program Certified Instructor
-[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="147" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
+[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
    * Issuance date: November, 2020
    * Expiration date: N/A
    * Credential ID:  N/A
