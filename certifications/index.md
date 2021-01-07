@@ -88,7 +88,7 @@ image:
 <hr/>
 
 ## -- AWS re/Start Program Certified Instructor
-[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
+[**<img src="/images/AWS re:Start.png" style="float:right; margin-right: 200px;" width="147" height="157"/>**](https://www.youracclaim.com/badges/80d1e754-791f-493c-9ca9-fcbf3ac6cbf8)
    * Issuance date: November, 2020
    * Expiration date: N/A
    * Credential ID:  N/A
@@ -106,7 +106,7 @@ image:
 <hr/>
 
 ## -- MTA: HTML5 Application Development Fundamentals - Certified 2020
-[**<img src="/images/html5cert.png" style="float:right; margin-right: 200px;" width="147" height="157"/>**](https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile)
+[**<img src="/images/html5cert.png" style="float:right; margin-right: 200px;" width="157" height="157"/>**](https://www.youracclaim.com/badges/02f35ce1-77ca-4c25-9577-9fcabd98c66d/linked_in_profile)
    * Issuance date: 06/13/2020
    * Expiration date: N/A
    * Credential ID:  H436-3934
